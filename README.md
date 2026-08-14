@@ -8,3 +8,4 @@ The Alignment is Approximately 3 degrees, and the Range is
 0.5 * X and 0.5 * Y From Center Screen.
 The Enemy Ships are Deadly if Aligned and in Range.
 If You Create an Executable Using Pyinstaller, Read the Ursina_fix.rft.
+View Asteroids & Enemies.jpg for Cosmetics.
