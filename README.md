@@ -1,4 +1,5 @@
 Game Created Using Ursina Game Engine and Python 3.14.6.
+There are 2 versions Of the Script (English and Spanish).
 This Game Uses 1 Player Ship and Multiple Asteroids and Enemy Ships.
 The Number of Asteroids and Enemy Ships are Selectable (Max = 30 each).
 Also, The Number of Guns for All Ships are Selectable up to 3 Guns Each.
